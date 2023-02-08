@@ -1,8 +1,14 @@
-This repo is made as a reference of a best-practice way to fresh start a [Next.js](https://nextjs.org/) project.
+This repo is made as a reference of how to implement [**Ant Design**](https://ant.design/) to a project.
 
 ## Getting Started
 
-First, run the development server:
+First, install the dependencies:
+
+```bash
+yarn dev
+```
+
+Then, run the development server:
 
 ```bash
 yarn dev
