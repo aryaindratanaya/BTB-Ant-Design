@@ -5,7 +5,7 @@ This repo is made as a reference of how to implement [**Ant Design**](https://an
 First, install the dependencies:
 
 ```bash
-yarn dev
+yarn
 ```
 
 Then, run the development server:
